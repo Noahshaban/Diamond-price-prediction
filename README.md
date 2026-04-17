@@ -68,4 +68,4 @@ Clean, intuitive UI built with Streamlit — any staff member can use it without
 
 ---
 
-*Built by [Noah Shaban](https://github.com/Noahshaban) · 2024*
+*Built by [Noah Shaban](https://github.com/Noahshaban) · 2026*
